@@ -1,44 +1,44 @@
 # Inteligencia-Artificial
 ## 1. Introducción
-En este documento, se expone cómo un proceso tradicional puede mejorarse mediante la incorporación de la inteligencia artificial. Se eligió como caso de uso , muy común en [contexto/industria].
+En este documento, se expone cómo un proceso tradicional puede mejorarse mediante la incorporación de la inteligencia artificial. Se eligió como caso de uso las citas médicas presenciales, muy común en el sector de la salud.
 
 ## 2. Descripción del Proceso Tradicional
-**Situación actual:**  
-- [Descripción breve del proceso actual, por ejemplo: "La atención al cliente en nuestra empresa se realiza mediante respuestas manuales en un call center."]
+**Situación actual:**
+- El diagnóstico de cada paciente lo debe realizar un médico con su capacidad de análisis y experiencia.
 
-**Problemas o limitaciones del método tradicional:**  
-- Lenta respuesta a los clientes.  
-- Alto costo operativo.  
-- Dificultad para manejar picos de demanda.  
-- Respuestas inconsistentes o estandarizadas.
+**Problemas o limitaciones del método tradicional:**
+- El tiempo de diagnóstico de cada cita es limitado.
+- Posibles malos diagnósticos.
+- Demoras por llenar el historial médico.
 
 ## 3. Propuesta de Solución con IA
-**Objetivo de la solución:**  
-- Automatizar y personalizar el proceso mediante un sistema basado en IA.
+**Objetivo de la solución:**
+- Ayudar a un mejor diagnóstico y optimización del tiempo de los médicos.
 
-**Descripción de la solución IA:**  
-- **Tecnología empleada:** Modelo de procesamiento de lenguaje natural (NLP).  
+**Descripción de la solución IA:**
+- **Tecnología empleada:** Aprendizaje Automático (Machine Learning).
 - **Integración en el flujo:**
-  - El sistema recibe la entrada del usuario.
-  - La IA interpreta la intención y genera una respuesta o acción automática.
-  - Intervención humana solo en casos complejos.
+  - El sistema recibe una imagen del paciente .
+  - La IA interpreta la imagen y da diagnósticos.
+  - El médico tiene diagnósticos más detallados.
 
-**Beneficios esperados:**  
-- Mayor velocidad de respuesta.  
-- Mejora en la personalización.  
-- Capacidad de aprendizaje continuo.  
-- Reducción de costos operativos.
+**Beneficios esperados:**
+- Mejor tiempo en los diagnósticos.
+- Mejor experiencia de usuarios.
+- Capacidad de aprendizaje con cada paciente.
+
 
 ## 4. Comparativa entre Procesos
 
-| Aspecto                    | Proceso Tradicional              | Solución con IA                         |
-|----------------------------|----------------------------------|-----------------------------------------|
-| Velocidad de respuesta     | Lento                            | Alta, automática                        |
-| Costo operativo            | Alto                             | Bajo, eficiente                         |
-| Consistencia de respuestas | Variable                         | Homogénea y mejorada                   |
-| Adaptabilidad              | Limitada                         | Dinámica, con aprendizaje continuo     |
+| Aspecto                     | Proceso Tradicional           | Solución con IA                       |
+|-----------------------------|-------------------------------|---------------------------------------|
+| Velocidad de respuesta      | Lento                         | Alta, automática                      |
+| Costo operativo             | Alto                          | Medio, eficiente                      |
+| Consistencia de respuestas  | Variable                      | Mejores diagnósticos                  |
+| Adaptabilidad               | Limitada                      | Dinámica, con aprendizaje continuo     |
 
 ## 5. Reflexión Personal
+Al emplear la IA en entornos de la salud podemos tener diagnósticos más eficientes, con capacidad de automejora, pudiendo aprovechar el talento humano en otras actividades fundamentales para brindar un mejor servicio.
 
-Este ejercicio demuestra que la IA no solo mejora la eficiencia, sino que también permite una mayor adaptabilidad y personalización en los procesos. Sin embargo, es crucial asegurar la calidad de los datos, establecer mecanismos de supervisión humana y considerar las implicaciones éticas de cada implementación.
+
 
